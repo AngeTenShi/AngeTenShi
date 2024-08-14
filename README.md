@@ -24,8 +24,10 @@ I'm passionate about everything related to **Software Engineering**, and I'm con
 
 ### Python
 
+- **[taskmaster](https://github.com/AngeTenShi/taskmaster)** I built with one person a fully-fledged job control daemon
 - **[minirsync](https://github.com/AngeTenShi/minirsync)**: Python version of the `rsync` utility.
 - **FindYourEvents**: An app built with Django for the backend and React Native for the frontend.
+- Scripting for cybersecurity challenge / lot of school projects 
 
 ### CyberSecurity
 
