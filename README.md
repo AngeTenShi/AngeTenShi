@@ -8,6 +8,7 @@ I'm passionate about everything related to **Software Engineering**, and I'm con
 
 ### C++
 
+- **[libftpp](https://github.com/AngeTenShi/libftpp)**: This project involves building a custom C++ modern toolbox, mastering design patterns, multi-threading, networking, and algorithms.
 - **[matt_daemon](https://github.com/AngeTenShi/matt_daemon)**: Implementation of a daemon client/server.
 - **[ft_irc](https://github.com/AngeTenShi/ft_irc)**: Building an IRC server compatible with all clients.
 - **[cpp_modules](https://github.com/AngeTenShi/cpp-modules)**: 10 modules to learn C++.
@@ -15,6 +16,7 @@ I'm passionate about everything related to **Software Engineering**, and I'm con
 
 ### C
 
+- **[tinky_winkey](https://github.com/AngeTenShi/tinky_winkey)**: This project involves creating a Windows Service and a Keylogger using the Win32 API to explore background processes and keystroke monitoring.
 - **[ft_script](https://github.com/AngeTenShi/ft_script)**: Reimplementation of the `script` command.
 - **[ft_ls](https://github.com/AngeTenShi/ft_ls)**: Building the `ls` command.
 - **[malloc](https://github.com/AngeTenShi/malloc)**: Custom implementation of `malloc` using `mmap`.
@@ -34,6 +36,7 @@ I'm passionate about everything related to **Software Engineering**, and I'm con
 - **snowcrash**: Reverse engineering with stack and heap overflow.
 - **[rainfall](https://github.com/AngeTenShi/rainfall)**: Advanced binary exploitation.
 - **[overide](https://github.com/AngeTenShi/overide)**: Final binary exploitation project with a focus on cryptography and various shellcodes.
+- **[boot2root](https://github.com/AngeTenShi/boot2root)**: The main goal is to explore all possible ways to gain root access on a machine.
 
 ### DevOps / SysAdmin
 
