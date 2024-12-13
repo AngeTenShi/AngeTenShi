@@ -16,13 +16,15 @@ I'm passionate about everything related to **Software Engineering**, and I'm con
 
 ### C
 
-- **[tinky_winkey](https://github.com/AngeTenShi/tinky_winkey)**: This project involves creating a Windows Service and a Keylogger using the Win32 API to explore background processes and keystroke monitoring.
 - **[ft_script](https://github.com/AngeTenShi/ft_script)**: Reimplementation of the `script` command.
 - **[ft_ls](https://github.com/AngeTenShi/ft_ls)**: Building the `ls` command.
 - **[malloc](https://github.com/AngeTenShi/malloc)**: Custom implementation of `malloc` using `mmap`.
 - **[cub3d](https://github.com/AngeTenShi/cub3d)**: Raycasting algorithm for a 3D engine.
 - **[minishell](https://github.com/AngeTenShi/minishell)**: A bash-like shell with lexer, parser, and execution features.
 - **[philosophers](https://github.com/AngeTenShi/philosophers)**: Solving the classic Philosophers problem using threads.
+- **[ft_ping](https://github.com/AngeTenShi/ft_ping)**: Reproducing ping binary ICMP protocol.
+- **[ft_traceroute](https://github.com/AngeTenShi/ft_traceroute)**: Reproducing traceroute binary ICMP and UDP.
+- **[ft_ssl_md5](https://github.com/AngeTenShi/ft_ssl_md5)**: Implementing openssl md5 to learn hashing methods.
 
 ### Python
 
